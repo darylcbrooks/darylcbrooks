@@ -40,7 +40,7 @@
 
 <h2>Home Lab Projects Master List</h2>
 
-[*Found Here*](https://github.com/darylcbrooks/project-1/blob/Projects/README.md) 
+### [*Found Here*](https://github.com/darylcbrooks/project-1/blob/Projects/README.md) 
 
 
 ## <code>Blue Team Projects</code>
