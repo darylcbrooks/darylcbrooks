@@ -96,7 +96,7 @@ ASSISTED WITH:
 
 <h2>IT Certifications</h2>
 
-### • [*CompTIA A+*](https://www.credly.com/badges/5acd60fe-827a-48c8-b8e8-30b934fc12fe)</br>• [*CompTIA Network+*](https://www.credly.com/badges/fbc5d4e4-d6bc-456a-861e-908bbd865d5a/)</br>• [*ITILv3 Foundation*]</br>• [*ITSM Foundation based on ISO/IEC 20000*]</br>• [*DHS Section 508 Trusted Tester*]</br>• [*Bowie State University - System Analyst Certificate*]</br>
+### • [*CompTIA A+*](https://www.credly.com/badges/5acd60fe-827a-48c8-b8e8-30b934fc12fe)</br>• [*CompTIA Network+*](https://www.credly.com/badges/fbc5d4e4-d6bc-456a-861e-908bbd865d5a/)</br>• *ITILv3 Foundation*</br>• *ITSM Foundation based on ISO/IEC 20000*</br>• *DHS Section 508 Trusted Tester*</br>• *Bowie State University - System Analyst Certificate*</br>
 
 <h2>Cloud Certifications</h2>
 
