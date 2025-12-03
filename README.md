@@ -1,4 +1,4 @@
-<h1>Hello, I'm <a href="https://www.linkedin.com/in/darylbrooks/"><code>Daryl Brooks</code></a>! and welcome to my professional portfolio.</h1>
+<h1>Hello, I'm <a href="https://www.linkedin.com/in/darylbrooks/"><code>Daryl Brooks</code></a> and welcome to my professional portfolio!</h1>
 
 
 
