@@ -31,7 +31,7 @@ TECHNOLOGY AND PLATFORMS USED:
 
 ## <code>Vulnerability Scanning Projects</code>
 
-### Coming Soon
+### [*Found Here*](https://github.com/darylcbrooks/vuln-anal/blob/main/README.md)
 ```
 ASSISTED WITH:
     N/A
