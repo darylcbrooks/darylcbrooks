@@ -67,7 +67,7 @@ TOOLS USED:
 
 ## <code>My Blogs</code>
 
-### Coming Soon
+### [*Cyber Security Blogs*](https://github.com/darylcbrooks/project-1/blob/Projects/README.md)
 
 ## <code>TRYHACKME</code>
 
