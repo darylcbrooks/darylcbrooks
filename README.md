@@ -47,7 +47,8 @@ ASSISTED WITH:
 
 ## <code>Burpsuite Projects</code>
 
-### Coming Soon
+### • [*Project 23 - Executing Local File Inclusion and Remote Code Execution with Burp Suite!*](https://github.com/darylcbrooks/project-1/blob/project-23/README.md) </br> • [*Project 53 - Burpsuite Traffic Interception 101*](https://github.com/darylcbrooks/project-1/blob/project-53/README.md) </br> • [*Project 54 - Conducting a Man-in-the-Middle Attack w/ Burpsuite*](https://github.com/darylcbrooks/project-1/blob/project-54/README.md)
+
 
 ```
 ASSISTED WITH:
