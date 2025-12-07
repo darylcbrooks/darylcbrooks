@@ -75,7 +75,9 @@ ASSISTED WITH:
 ```
 ## <code>Windows Security Projects</code>
 
-### • [*Project 01 - Essential Powershell Commands for System Administration and Enumeration*](https://github.com/darylcbrooks/project-1/blob/project-1/README.md)</br> • [*Project 02 - Navigating with the Linux & Windows Command Line Interface (CLI)*](https://github.com/darylcbrooks/project-1/blob/project-2/README.md)</br> • [*Project 39 - Isolating Compromised Users and Hardening Active Directory Security*](https://github.com/darylcbrooks/project-1/blob/project-39/README.md) </br> • [*Project 45 - Remediating Vulnerabilities Found with OpenVAS and Nessus Scanners*](https://github.com/darylcbrooks/project-1/blob/project-45/README.md) </br> • [*Project 46 - Reverse Engineering Malware using Cyber Chef and Yara Rules*](https://github.com/darylcbrooks/project-1/blob/project-46/README.md) </br>
+### • [*Project 01 - Essential Powershell Commands for System Administration and Enumeration*](https://github.com/darylcbrooks/project-1/blob/project-1/README.md)</br> • [*Project 02 - Navigating with the Linux & Windows Command Line Interface (CLI)*](https://github.com/darylcbrooks/project-1/blob/project-2/README.md)</br> • [*Project 28 - Recovering from a Malware Infection: Step by Step Guide*](https://github.com/darylcbrooks/project-1/blob/project-28/README.md) </br> • [*Project 39 - Isolating Compromised Users and Hardening Active Directory Security*](https://github.com/darylcbrooks/project-1/blob/project-39/README.md) </br> • [*Project 45 - Remediating Vulnerabilities Found with OpenVAS and Nessus Scanners*](https://github.com/darylcbrooks/project-1/blob/project-45/README.md) </br> • [*Project 46 - Reverse Engineering Malware using Cyber Chef and Yara Rules*](https://github.com/darylcbrooks/project-1/blob/project-46/README.md) </br>
+
+```
 ASSISTED WITH:
     N/A
 ```
