@@ -12,7 +12,7 @@
 
 ```
 TECHNOLOGY AND PLATFORMS USED:
-     Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, Hydra, Hashcat, John The Ripper, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, AWS, Iftop, OpenSSL, Binwalk, Docker, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit 
+     Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom,,<br>Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek,<br> Hydra, Hashcat, John The Ripper, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot,<br> Cyber Chef, Yara Rules, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, AWS,<br>Iftop, OpenSSL, Binwalk, Docker, dnsspoof, arpspoof, DAVTest, WMAP,<br> PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit 
 ```
 
 ## <code>Blue Team Projects</code>
@@ -21,7 +21,7 @@ TECHNOLOGY AND PLATFORMS USED:
 
 ```
 TOOLS USED:
-     Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker 
+     Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise,<br> Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus,<br> sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot,<br> Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker 
 ```
 
 ## <code>Red Team Projects</code>
@@ -30,7 +30,7 @@ TOOLS USED:
 
 ```
 TOOLS USED:
-     Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Wireshark, T-Shark, Hydra, Hashcat, John The Ripper, ModSecurity, Python Pickle, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit 
+     Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom,<br> Python, Bash, Wireshark, T-Shark, Hydra, Hashcat, John The Ripper, ModSecurity, Python Pickle,<br> BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, dnsspoof, arpspoof,<br> DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit 
 ```
 
 ## <code>Vulnerability Scanning & Analysis Projects</code>
