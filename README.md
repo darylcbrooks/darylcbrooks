@@ -58,7 +58,8 @@ ASSISTED WITH:
 
 ## <code>AWS/Cloud Security Projects</code>
 
-### Coming Soon
+### • [*Project 60 - Creating AWS EC2 Key Pairs and Managing Secrets with AWS Secrets Manager*](https://github.com/darylcbrooks/project-1/blob/project-60/README.md) </br> • [*Project 61 - Creating Security Groups for AWS EC2 Instances*](https://github.com/darylcbrooks/project-1/blob/project-61/README.md) </br> • [*Project 62 - AWS IAM and S3 Security Compliance Automation*](https://github.com/darylcbrooks/project-1/blob/project-62/README.md) </br> • [*Project 63 - AWS CloudFormation Templates: Applying Changesets and Detecting Configuration Drift*](https://github.com/darylcbrooks/project-1/blob/project-63/README.md) 
+
 ```
 ASSISTED WITH:
     N/A
@@ -66,15 +67,15 @@ ASSISTED WITH:
 
 ## <code>Packet Analysis Projects</code>
 
-### Coming Soon
+### • [*Project 04 - Packet Analysis with Tshark: Telnet vs. SSH*](https://github.com/darylcbrooks/project-1/blob/project-4/README.md)</br> • [*Project 08 - Packet Analysis pt 2: Network Traffic Monitoring with Wireshark & Tcpdump*](https://github.com/darylcbrooks/project-1/blob/project-8/README.md) </br> • [*Project 10 - More packet analysis with Hping*](https://github.com/darylcbrooks/project-1/blob/project-10/README.md) </br> • [*Project 14 - Threat Hunting w/ Wireshark and sguil*](https://github.com/darylcbrooks/project-1/blob/project-14/README.md) </br> • [*Project 18 - Detecting Port Scans w/ Wireshark*](https://github.com/darylcbrooks/project-1/blob/project-18/README.md) </br> • [*Project 30 - Extracting and Analyzing Malicious Traffic with T Shark*](https://github.com/darylcbrooks/project-1/blob/project-30/README.md) </br> • [*Project 33 - Using Wireshark Filters to Detect Indicators of Compromise*](https://github.com/darylcbrooks/project-1/blob/project-33/README.md) </br> • [*Project 34 - Configuring Zeek for Network Security Analysis*](https://github.com/darylcbrooks/project-1/blob/project-34/README.md) </br> • [*Project 35 - Network Security Analysis w/ Zeek*](https://github.com/darylcbrooks/project-1/blob/project-35/README.md) </br> • [*Project 66 - Digital Forensic Techniques 101*](https://github.com/darylcbrooks/project-1/blob/project-66/README.md) </br>
+
 ```
 ASSISTED WITH:
     N/A
 ```
 ## <code>Windows Security Projects</code>
 
-### Coming Soon
-```
+### • [*Project 01 - Essential Powershell Commands for System Administration and Enumeration*](https://github.com/darylcbrooks/project-1/blob/project-1/README.md)</br> • [*Project 02 - Navigating with the Linux & Windows Command Line Interface (CLI)*](https://github.com/darylcbrooks/project-1/blob/project-2/README.md)</br> • [*Project 39 - Isolating Compromised Users and Hardening Active Directory Security*](https://github.com/darylcbrooks/project-1/blob/project-39/README.md) </br> • [*Project 45 - Remediating Vulnerabilities Found with OpenVAS and Nessus Scanners*](https://github.com/darylcbrooks/project-1/blob/project-45/README.md) </br> • [*Project 46 - Reverse Engineering Malware using Cyber Chef and Yara Rules*](https://github.com/darylcbrooks/project-1/blob/project-46/README.md) </br>
 ASSISTED WITH:
     N/A
 ```
