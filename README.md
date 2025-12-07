@@ -112,8 +112,6 @@ TOOLS USED:
 ![Tenable Nessus](https://img.shields.io/badge/-Tenable-242B75?style=flat-square&logo=Tenable) 
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=Microsoft_Azure)
 ![Azure Active Directory](https://img.shields.io/badge/-Azure_Active_Directory-0b7cdf?style=flat-square&logo=Azure_Active_Directory)
-![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-5cb2f1?style=flat-square&logo=Microsoft_Sentinel)
-![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender-1087da?style=flat-square&logo=Microsoft_Defender)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office_365-7557a4?style=flat-square&logo=Microsoft_Office_365)
 ![WireShark](https://img.shields.io/badge/-WireShark-8abbd4?style=flat-square&logo=WireShark)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-85b7a4?style=flat-square&logo=ServiceNow)
@@ -121,15 +119,10 @@ TOOLS USED:
 ![Windows](https://img.shields.io/badge/-Windows-0078d7?style=flat-square&logo=Windows)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-1d242e?style=flat-square&logo=AWS)
-![Google Drive](https://img.shields.io/badge/-Google_Drive-4285F4?style=flat-square&logo=GoogleDrive&logoColor=white)
-![Google Docs](https://img.shields.io/badge/-Google_Docs-4285F4?style=flat-square&logo=GoogleDocs&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?style=flat-square&logo=GoogleSheets&logoColor=white)
-![Google Slides](https://img.shields.io/badge/-Google_Slides-FBBC04?style=flat-square&logo=GoogleSlides&logoColor=black)
 
 ## <code>LANGUAGES</code>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-Powershell-5793fa?style=flat-square&logo=Powershell)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![KQL](https://img.shields.io/badge/-KQL-36336e?style=flat-square&logo=KQL)
 
