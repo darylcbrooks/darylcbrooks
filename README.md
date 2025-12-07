@@ -22,11 +22,19 @@ TECHNOLOGY AND PLATFORMS USED:
 
 ## <code>Red Team Projects</code>
 
-### Coming Soon
+### [*Found Here*](https://github.com/darylcbrooks/red-team/blob/main/README.md)
 
 ```
 TECHNOLOGY AND PLATFORMS USED:
      N/A
+```
+
+## <code>Vulnerability Scanning Projects</code>
+
+### Coming Soon
+```
+ASSISTED WITH:
+    N/A
 ```
 
 ## <code>Splunk (SIEM) Projects</code>
