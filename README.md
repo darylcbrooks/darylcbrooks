@@ -13,7 +13,7 @@
 
 ## <code>Blue Team Projects</code>
 
-### Coming Soon
+### [*Found Here*](https://github.com/darylcbrooks/blue-team/blob/main/README.md)
 
 ```
 TECHNOLOGY AND PLATFORMS USED:
