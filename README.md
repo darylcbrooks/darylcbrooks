@@ -10,14 +10,18 @@
 
 ### [*Found Here*](https://github.com/darylcbrooks/project-1/blob/Projects/README.md) 
 
+```
+TECHNOLOGY AND PLATFORMS USED:
+     Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, Hydra, Hashcat, John The Ripper, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, AWS, Iftop, OpenSSL, Binwalk, Docker, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit 
+```
 
 ## <code>Blue Team Projects</code>
 
 ### [*Found Here*](https://github.com/darylcbrooks/blue-team/blob/main/README.md)
 
 ```
-TECHNOLOGY AND PLATFORMS USED:
-     N/A
+TOOLS USED:
+     Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker 
 ```
 
 ## <code>Red Team Projects</code>
@@ -25,54 +29,38 @@ TECHNOLOGY AND PLATFORMS USED:
 ### [*Found Here*](https://github.com/darylcbrooks/red-team/blob/main/README.md)
 
 ```
-TECHNOLOGY AND PLATFORMS USED:
-     N/A
+TOOLS USED:
+     Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Wireshark, T-Shark, Hydra, Hashcat, John The Ripper, ModSecurity, Python Pickle, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit 
 ```
 
 ## <code>Vulnerability Scanning & Analysis Projects</code>
 
 ### [*Found Here*](https://github.com/darylcbrooks/vuln-anal/blob/main/README.md)
 ```
-ASSISTED WITH:
-    N/A
+TOOLS USED:
+   Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker 
 ```
 
 ## <code>Splunk (SIEM) Projects: Log Analysis</code>
 
 ### • [*Project 27 - Conducting Log Analysis with Splunk*](https://github.com/darylcbrooks/project-1/blob/project-27/README.md) </br> • [*Project 47 - Investigating Rogue Processes w/ Splunk*](https://github.com/darylcbrooks/project-1/blob/project-47/README.md) </br> • [*Project 70 - Using Binwalk for file inspection*](https://github.com/darylcbrooks/project-1/blob/project-70/README.md) </br>
-```
-ASSISTED WITH:
-    N/A
-```
+
 
 ## <code>Burpsuite Projects</code>
 
 ### • [*Project 23 - Executing Local File Inclusion and Remote Code Execution with Burp Suite!*](https://github.com/darylcbrooks/project-1/blob/project-23/README.md) </br> • [*Project 53 - Burpsuite Traffic Interception 101*](https://github.com/darylcbrooks/project-1/blob/project-53/README.md) </br> • [*Project 54 - Conducting a Man-in-the-Middle Attack w/ Burpsuite*](https://github.com/darylcbrooks/project-1/blob/project-54/README.md)
 
 
-```
-ASSISTED WITH:
-     Windows OS, Linux, Microsoft Azure, Microsoft Defender for Endpoint, Tenable/Nessus, ANKI, NSG/Firewalls,
-     Command Line Tools, Troubleshooting, Documentation Clarification
-```
-
 ## <code>AWS/Cloud Security Projects</code>
 
 ### • [*Project 60 - Creating AWS EC2 Key Pairs and Managing Secrets with AWS Secrets Manager*](https://github.com/darylcbrooks/project-1/blob/project-60/README.md) </br> • [*Project 61 - Creating Security Groups for AWS EC2 Instances*](https://github.com/darylcbrooks/project-1/blob/project-61/README.md) </br> • [*Project 62 - AWS IAM and S3 Security Compliance Automation*](https://github.com/darylcbrooks/project-1/blob/project-62/README.md) </br> • [*Project 63 - AWS CloudFormation Templates: Applying Changesets and Detecting Configuration Drift*](https://github.com/darylcbrooks/project-1/blob/project-63/README.md) 
 
-```
-ASSISTED WITH:
-    N/A
-```
 
 ## <code>Packet Analysis Projects</code>
 
 ### • [*Project 04 - Packet Analysis with Tshark: Telnet vs. SSH*](https://github.com/darylcbrooks/project-1/blob/project-4/README.md)</br> • [*Project 08 - Packet Analysis pt 2: Network Traffic Monitoring with Wireshark & Tcpdump*](https://github.com/darylcbrooks/project-1/blob/project-8/README.md) </br> • [*Project 10 - More packet analysis with Hping*](https://github.com/darylcbrooks/project-1/blob/project-10/README.md) </br> • [*Project 14 - Threat Hunting w/ Wireshark and sguil*](https://github.com/darylcbrooks/project-1/blob/project-14/README.md) </br> • [*Project 18 - Detecting Port Scans w/ Wireshark*](https://github.com/darylcbrooks/project-1/blob/project-18/README.md) </br> • [*Project 30 - Extracting and Analyzing Malicious Traffic with T Shark*](https://github.com/darylcbrooks/project-1/blob/project-30/README.md) </br> • [*Project 33 - Using Wireshark Filters to Detect Indicators of Compromise*](https://github.com/darylcbrooks/project-1/blob/project-33/README.md) </br> • [*Project 34 - Configuring Zeek for Network Security Analysis*](https://github.com/darylcbrooks/project-1/blob/project-34/README.md) </br> • [*Project 35 - Network Security Analysis w/ Zeek*](https://github.com/darylcbrooks/project-1/blob/project-35/README.md) </br> • [*Project 66 - Digital Forensic Techniques 101*](https://github.com/darylcbrooks/project-1/blob/project-66/README.md) </br>
 
-```
-ASSISTED WITH:
-    N/A
-```
+
 ## <code>Windows Security Projects</code>
 
 ### • [*Project 01 - Essential Powershell Commands for System Administration and Enumeration*](https://github.com/darylcbrooks/project-1/blob/project-1/README.md)</br> • [*Project 02 - Navigating with the Linux & Windows Command Line Interface (CLI)*](https://github.com/darylcbrooks/project-1/blob/project-2/README.md)</br> • [*Project 28 - Recovering from a Malware Infection: Step by Step Guide*](https://github.com/darylcbrooks/project-1/blob/project-28/README.md) </br> • [*Project 39 - Isolating Compromised Users and Hardening Active Directory Security*](https://github.com/darylcbrooks/project-1/blob/project-39/README.md) </br> • [*Project 45 - Remediating Vulnerabilities Found with OpenVAS and Nessus Scanners*](https://github.com/darylcbrooks/project-1/blob/project-45/README.md) </br> • [*Project 46 - Reverse Engineering Malware using Cyber Chef and Yara Rules*](https://github.com/darylcbrooks/project-1/blob/project-46/README.md) </br>
