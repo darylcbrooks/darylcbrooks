@@ -29,7 +29,7 @@ TECHNOLOGY AND PLATFORMS USED:
      N/A
 ```
 
-## <code>Vulnerability Scanning Projects</code>
+## <code>Vulnerability Analysis Projects</code>
 
 ### [*Found Here*](https://github.com/darylcbrooks/vuln-anal/blob/main/README.md)
 ```
