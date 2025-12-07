@@ -29,7 +29,7 @@ TECHNOLOGY AND PLATFORMS USED:
      N/A
 ```
 
-## <code>Vulnerability Analysis Projects</code>
+## <code>Vulnerability Scanning & Analysis Projects</code>
 
 ### [*Found Here*](https://github.com/darylcbrooks/vuln-anal/blob/main/README.md)
 ```
@@ -37,7 +37,7 @@ ASSISTED WITH:
     N/A
 ```
 
-## <code>Splunk (SIEM) Projects</code>
+## <code>Splunk (SIEM) Projects: Log Analysis</code>
 
 ### • [*Project 27 - Conducting Log Analysis with Splunk*](https://github.com/darylcbrooks/project-1/blob/project-27/README.md) </br> • [*Project 47 - Investigating Rogue Processes w/ Splunk*](https://github.com/darylcbrooks/project-1/blob/project-47/README.md) </br> • [*Project 70 - Using Binwalk for file inspection*](https://github.com/darylcbrooks/project-1/blob/project-70/README.md) </br>
 ```
@@ -55,7 +55,7 @@ ASSISTED WITH:
      Command Line Tools, Troubleshooting, Documentation Clarification
 ```
 
-## <code>AWS Projects</code>
+## <code>AWS/Cloud Security Projects</code>
 
 ### Coming Soon
 ```
@@ -63,7 +63,7 @@ ASSISTED WITH:
     N/A
 ```
 
-## <code>Wireshark/T-Shark Projects</code>
+## <code>Packet Analysis Projects</code>
 
 ### Coming Soon
 ```
