@@ -71,7 +71,7 @@ TOOLS USED:
 
 ## <code>My Publications</code>
 
-### • [*Social Media Security - It’s Risks and How to Protect Your Child (Vision Magazine, Winter 2018*)](https://www.linkedin.com/in/darylbrooks/overlay/1546273333310/single-media-viewer/?profileId=ACoAAAD0eOABlQbQJDPdIt47UmjhD2BNE3ts9sE)</br> • [*Project 28 - Recovering from a Malware Infection: Step by Step Guide*](https://github.com/darylcbrooks/project-1/blob/project-28/README.md) </br> • [*Project 39 - Isolating Compromised Users and Hardening Active Directory Security*](https://github.com/darylcbrooks/project-1/blob/project-39/README.md) </br> • [*Project 45 - Remediating Vulnerabilities Found with OpenVAS and Nessus Scanners*](https://github.com/darylcbrooks/project-1/blob/project-45/README.md) </br> • [*Project 46 - Reverse Engineering Malware using Cyber Chef and Yara Rules*](https://github.com/darylcbrooks/project-1/blob/project-46/README.md) </br>[*Cyber Security Blogs*](https://medium.com/@dbrooks810)
+### • [*Social Media - It's Risks and How to Protect Your Child*)](https://www.linkedin.com/pulse/social-media-its-risks-how-protect-your-child-daryl-brooks-m-s-/?trackingId=wqQ11jBlQ%2FegTf0oYMpc%2BA%3D%3D)</br> • [*Small Size, Big Shield: How Small Businesses Can Be Cyber Ready*](https://www.linkedin.com/pulse/small-size-big-shield-how-businesses-can-cyber-ready-daryl-mrfae/?trackingId=wqQ11jBlQ%2FegTf0oYMpc%2BA%3D%3D) </br> • [*SCADA Systems: Threats, Vulnerabilities, & Consequences*](https://www.linkedin.com/pulse/scada-systems-threats-vulnerabilities-consequences-daryl-cqvhe/?trackingId=wqQ11jBlQ%2FegTf0oYMpc%2BA%3D%3D)
 
 ## <code>TRYHACKME</code>
 
