@@ -6,6 +6,8 @@
 
 ### *20+ Years of Federal Civilian Service (United States Park Police/Federal Trade Commission/US Citizenship & Immigration Services/Social Security Administration/Cybersecurity Infrastructure Security Agency)*
 
+>**Career Plans:** My goal is to pivot into the vulnerability management and analysis cybersecurity domain. I want to take raw prevelance & scanning data and transform it into meaningful insight in order to help organizations better understand their overall security posture.
+
 <h2>Projects Master List (100+)</h2>
 
 ### [*Found Here*](https://github.com/darylcbrooks/project-1/blob/Projects/README.md) 
