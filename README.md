@@ -18,27 +18,19 @@
 
 ### [*Found Here*](https://github.com/darylcbrooks/blue-team/blob/main/README.md)
 
-```
-TOOLS USED:
-     Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker 
-```
+>**TOOLS USED:** Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker 
 
 ## <code>Red Team Projects</code>
 
 ### [*Found Here*](https://github.com/darylcbrooks/red-team/blob/main/README.md)
 
-```
-TOOLS USED:
-     Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Wireshark, T-Shark, Hydra, Hashcat, John The Ripper, ModSecurity, Python Pickle, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit 
-```
+>**TOOLS USED:** Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Wireshark, T-Shark, Hydra, Hashcat, John The Ripper, ModSecurity, Python Pickle, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit 
 
 ## <code>Vulnerability Scanning & Analysis Projects</code>
 
 ### [*Found Here*](https://github.com/darylcbrooks/vuln-anal/blob/main/README.md)
-```
-TOOLS USED:
-   Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker 
-```
+
+>**TOOLS USED:** Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker 
 
 ## <code>Splunk (SIEM) Projects: Log Analysis</code>
 
