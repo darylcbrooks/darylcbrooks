@@ -30,7 +30,7 @@
 
 ### [*Found Here*](https://github.com/darylcbrooks/vuln-anal/blob/main/README.md)
 
->**TOOLS USED:** Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker 
+>**TOOLS USED:** Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker, WMAP 
 
 ## <h2>Splunk (SIEM) Projects: Log Analysis</h2>
 
