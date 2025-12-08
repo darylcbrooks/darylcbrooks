@@ -71,7 +71,8 @@ TOOLS USED:
 
 ## <code>My Publications</code>
 
-### • [*Social Media - It's Risks and How to Protect Your Child*)](https://www.linkedin.com/pulse/social-media-its-risks-how-protect-your-child-daryl-brooks-m-s-/?trackingId=wqQ11jBlQ%2FegTf0oYMpc%2BA%3D%3D)</br> • [*Small Size, Big Shield: How Small Businesses Can Be Cyber Ready*](https://www.linkedin.com/pulse/small-size-big-shield-how-businesses-can-cyber-ready-daryl-mrfae/?trackingId=wqQ11jBlQ%2FegTf0oYMpc%2BA%3D%3D) </br> • [*SCADA Systems: Threats, Vulnerabilities, & Consequences*](https://www.linkedin.com/pulse/scada-systems-threats-vulnerabilities-consequences-daryl-cqvhe/?trackingId=wqQ11jBlQ%2FegTf0oYMpc%2BA%3D%3D)
+### • [*Social Media - It's Risks and How to Protect Your Child*)](https://www.linkedin.com/pulse/social-media-its-risks-how-protect-your-child-daryl-brooks-m-s-/?trackingId=wqQ11jBlQ%2FegTf0oYMpc%2BA%3D%3D)</br> • [*Small Size, Big Shield: How Small Businesses Can Be Cyber Ready*](https://www.linkedin.com/pulse/small-size-big-shield-how-businesses-can-cyber-ready-daryl-mrfae/?trackingId=wqQ11jBlQ%2FegTf0oYMpc%2BA%3D%3D) </br> • [*SCADA Systems: Threats, Vulnerabilities, & Consequences*](https://www.linkedin.com/pulse/scada-systems-threats-vulnerabilities-consequences-daryl-cqvhe/?trackingId=wqQ11jBlQ%2FegTf0oYMpc%2BA%3D%3D) </br> • [*My Cybersecurity Blogs*](https://www.linkedin.com/pulse/scada-systems-threats-vulnerabilities-consequences-daryl-cqvhe/?trackingId=wqQ11jBlQ%2FegTf0oYMpc%2BA%3D%3D)
+
 
 ## <code>TRYHACKME</code>
 
