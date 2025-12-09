@@ -68,7 +68,7 @@
 
 ## <h2>TRYHACKME</h2>
 
-### Coming Soon
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4315590" style='border:none;'></iframe>
 
 
 ## <h2>Education</h2>
