@@ -68,7 +68,7 @@
 
 ## <h2>TRYHACKME</h2>
 
-![Image]([https://github.com/darylcbrooks/project-1/blob/project-1/Project%201%20-%20Step%2001.png)
+![Image](https://github.com/darylcbrooks/darylcbrooks/blob/main/TryHackMe%20image.PNG)
 
 ## <h2>Education</h2>
 
