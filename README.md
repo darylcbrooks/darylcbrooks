@@ -68,8 +68,7 @@
 
 ## <h2>TRYHACKME</h2>
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/brooksd0810.png" alt="Your Image Badge" />](https://tryhackme.com/img/thm_public_badge_bg.svg)
-
+![Image]([https://github.com/darylcbrooks/project-1/blob/project-1/Project%201%20-%20Step%2001.png)
 
 ## <h2>Education</h2>
 
