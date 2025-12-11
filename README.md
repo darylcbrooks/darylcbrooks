@@ -74,7 +74,7 @@
 
 - *Masters of Science, Information Security Management (Bowie State University)*
 - *Bachelors of Science, Management Information Systems (Delaware State University)*
-- [*CISA Federal Cybersecurity Skilling Academy*](https://www.credly.com/badges/99a10f00-e65d-406e-8442-d5f520a4ba20) Tracks: Cyber Defense Analyst, Vulnerability Analysis, Intro to Pen Testing, Intro To Digital Forensics
+- [*CISA Federal Cybersecurity Skilling Academy*](https://www.credly.com/badges/99a10f00-e65d-406e-8442-d5f520a4ba20), Cyber Defense Analyst, Vulnerability Analysis, Intro to Pen Testing, Intro To Digital Forensics
 - [*Google Cybersecurity Professional Certificate*](https://www.credly.com/badges/4a4cc861-610e-4164-b4f2-6c4e8393799f)
 - [*Google IT Support Professional Certificate*](https://www.credly.com/badges/41e1cd60-20c1-4322-8c91-bbd6d3e66add)
 - [*Google Project Management Professional Certificate*](https://www.credly.com/badges/65dc2522-8916-4427-a073-96b1a539062f)
