@@ -12,13 +12,13 @@
 
 ### [*Found Here*](https://github.com/darylcbrooks/project-1/blob/Projects/README.md) 
 
->**TOOLS USED:** Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom,,Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, Hydra, Hashcat, John The Ripper, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot,Cyber Chef, Yara Rules, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, AWS, Iftop, OpenSSL, Binwalk, Docker, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit 
+>**TOOLS USED:** Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom,,Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, Hydra, Hashcat, John The Ripper, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot,Cyber Chef, Yara Rules, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, AWS, Iftop, OpenSSL, Binwalk, Docker, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit, Linpeas 
 
 ## <h2>Blue Team Projects</h2>
 
 ### [*Found Here*](https://github.com/darylcbrooks/blue-team/blob/main/README.md)
 
->**TOOLS USED:** Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker 
+>**TOOLS USED:** Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker, Linpeas 
 
 ## <h2>Red Team Projects</h2>
 
@@ -30,7 +30,7 @@
 
 ### [*Found Here*](https://github.com/darylcbrooks/vuln-anal/blob/main/README.md)
 
->**TOOLS USED:** Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker, WMAP 
+>**TOOLS USED:** Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker, WMAP, Linpeas 
 
 ## <h2>Splunk (SIEM) Projects: Log Analysis</h2>
 
