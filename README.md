@@ -96,7 +96,7 @@
 
 ## <h2>AI Certifications</h2>
 
- • [*AWS Certified AI Practitioner*](https://www.credly.com/badges/e803f313-3ad0-49bf-8c77-82170a511be5/)</br>• [*Microsoft Certified: Azure AI Fundamentals*](https://learn.microsoft.com/en-us/users/brooksdaryl-4420/credentials/9e2930d5884d7d57)</br>• [*AKYLADE AI Security Foundation (A/AISF)*](https://www.credential.net/db77c4e8-ce68-4da1-a38b-ce0561f26677#acc.WQYmdEl9)</br>• [*Google AI Essentials*](https://www.credly.com/badges/74b6f930-060c-49f4-b83d-41aaa0783ec3)</br>
+ • [*AWS Certified AI Practitioner*](https://www.credly.com/badges/e803f313-3ad0-49bf-8c77-82170a511be5/)</br>• [*Microsoft Certified: Azure AI Fundamentals*](https://learn.microsoft.com/en-us/users/brooksdaryl-4420/credentials/9e2930d5884d7d57)</br>• [*AKYLADE AI Security Foundation (A/AISF)*](https://www.credential.net/db77c4e8-ce68-4da1-a38b-ce0561f26677#acc.WQYmdEl9)</br>• [*ISO/IEC 42001:2023 Lead Auditor*](https://www.credly.com/badges/1284273a-3362-4acd-b2e9-67fd974af374/)</br>• [*Google AI Essentials*](https://www.credly.com/badges/74b6f930-060c-49f4-b83d-41aaa0783ec3)</br>
 
 ## <h2>Project Management Certifications</h2>
 
