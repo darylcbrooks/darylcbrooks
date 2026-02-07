@@ -30,7 +30,7 @@
 
 ### [*Found Here*](https://github.com/darylcbrooks/vuln-anal/blob/main/README.md)
 
->**TOOLS USED:** Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker, WMAP, Linpeas 
+>**TOOLS USED:** Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker, WMAP, Linpeas, Burpsuite, Curl 
 
 ## <h2>Splunk (SIEM) Projects: Log Analysis</h2>
 
@@ -39,7 +39,8 @@
 
 ## <h2>Burpsuite Projects</h2>
 
-### • [*Project 23 - Executing Local File Inclusion and Remote Code Execution with Burp Suite!*](https://github.com/darylcbrooks/project-1/blob/project-23/README.md) </br> • [*Project 53 - Burpsuite Traffic Interception 101*](https://github.com/darylcbrooks/project-1/blob/project-53/README.md) </br> • [*Project 54 - Conducting a Man-in-the-Middle Attack w/ Burpsuite*](https://github.com/darylcbrooks/project-1/blob/project-54/README.md)
+### • [*Project 23 - Executing Local File Inclusion and Remote Code Execution with Burp Suite!*](https://github.com/darylcbrooks/project-1/blob/project-23/README.md) </br> • [*Project 53 - Burpsuite Traffic Interception 101*](https://github.com/darylcbrooks/project-1/blob/project-53/README.md) </br> • [*Project 54 - Conducting a Man-in-the-Middle Attack w/ Burpsuite*](https://github.com/darylcbrooks/project-1/blob/project-54/README.md)</br> • [*Project 160 - Using Curl and Burpsuite To Enumerate Allowed HTTP Methods*](https://github.com/darylcbrooks/project-1/blob/project-160/README.md)
+
 
 
 ## <h2>AWS/Cloud Security Projects</h2>
