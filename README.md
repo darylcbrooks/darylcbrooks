@@ -24,7 +24,7 @@
 
 ### [*Found Here*](https://github.com/darylcbrooks/red-team/blob/main/README.md)
 
->**TOOLS USED:** Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Wireshark, T-Shark, Hydra, Hashcat, John The Ripper, ModSecurity, Python Pickle, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit, Armitage, NetCat 
+>**TOOLS USED:** Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Wireshark, T-Shark, Hydra, Hashcat, John The Ripper, ModSecurity, Python Pickle, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit, Armitage, NetCat, Gophish, Curl 
 
 ## <h2>Vulnerability Scanning & Analysis Projects</h2>
 
