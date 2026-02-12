@@ -43,9 +43,9 @@
 
 
 
-## <h2>AWS/Cloud Security Projects</h2>
+## <h2>Cloud Security Projects</h2>
 
-### • [*Project 60 - Creating AWS EC2 Key Pairs and Managing Secrets with AWS Secrets Manager*](https://github.com/darylcbrooks/project-1/blob/project-60/README.md) </br> • [*Project 61 - Creating Security Groups for AWS EC2 Instances*](https://github.com/darylcbrooks/project-1/blob/project-61/README.md) </br> • [*Project 62 - AWS IAM and S3 Security Compliance Automation*](https://github.com/darylcbrooks/project-1/blob/project-62/README.md) </br> • [*Project 63 - AWS CloudFormation Templates: Applying Changesets and Detecting Configuration Drift*](https://github.com/darylcbrooks/project-1/blob/project-63/README.md)</br> • [*Project 162 - Restricting Port Access on an AWS EC2 for Enhanced Security*](https://github.com/darylcbrooks/project-1/blob/project-162/README.md)</br> • [*Project 163 - Building A Virtual Machine & Restricting Port Access In Microsoft Azure*](https://github.com/darylcbrooks/project-1/blob/project-163/README.md) 
+### • [*Project 60 - Creating AWS EC2 Key Pairs and Managing Secrets with AWS Secrets Manager*](https://github.com/darylcbrooks/project-1/blob/project-60/README.md) </br> • [*Project 61 - Creating Security Groups for AWS EC2 Instances*](https://github.com/darylcbrooks/project-1/blob/project-61/README.md) </br> • [*Project 62 - AWS IAM and S3 Security Compliance Automation*](https://github.com/darylcbrooks/project-1/blob/project-62/README.md) </br> • [*Project 63 - AWS CloudFormation Templates: Applying Changesets and Detecting Configuration Drift*](https://github.com/darylcbrooks/project-1/blob/project-63/README.md)</br> • [*Project 162 - Restricting Port Access on an AWS EC2 for Enhanced Security*](https://github.com/darylcbrooks/project-1/blob/project-162/README.md)</br> • [*Project 163 - Building A Virtual Machine & Restricting Port Access In Microsoft Azure*](https://github.com/darylcbrooks/project-1/blob/project-163/README.md)</br> • [*Project 164 - Building A Virtual Machine & Restricting Port Access In Google Cloud Platform*](https://github.com/darylcbrooks/project-1/blob/project-164/README.md) 
 
 
 ## <h2>Packet Analysis Projects</h2>
