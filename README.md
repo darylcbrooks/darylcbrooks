@@ -32,9 +32,9 @@
 
 >**TOOLS USED:** Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker, WMAP, Linpeas, Burpsuite, Curl, Nikto, WPScan 
 
-## <h2>Splunk (SIEM) Projects: Log Analysis</h2>
+## <h2>SIEM Projects: Log Analysis</h2>
 
-### • [*Project 27 - Conducting Log Analysis with Splunk*](https://github.com/darylcbrooks/project-1/blob/project-27/README.md) </br> • [*Project 47 - Investigating Rogue Processes w/ Splunk*](https://github.com/darylcbrooks/project-1/blob/project-47/README.md) </br> • [*Project 70 - Using Binwalk for file inspection*](https://github.com/darylcbrooks/project-1/blob/project-70/README.md) </br>
+### • [*Project 27 - Conducting Log Analysis with Splunk*](https://github.com/darylcbrooks/project-1/blob/project-27/README.md) </br> • [*Project 47 - Investigating Rogue Processes w/ Splunk*](https://github.com/darylcbrooks/project-1/blob/project-47/README.md) </br> • [*Project 70 - Using Binwalk for file inspection*](https://github.com/darylcbrooks/project-1/blob/project-70/README.md)</br> • [*Project 171 - Incident Detection and Alerting with Wazuh*](https://github.com/darylcbrooks/project-1/blob/project-171/README.md)
 
 
 ## <h2>Burpsuite Projects</h2>
