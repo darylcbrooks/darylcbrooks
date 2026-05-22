@@ -60,7 +60,7 @@
 
 ## <h2>Digital Forensics Projects</h2>
 
-### [*Found Here*](https://github.com/darylcbrooks/win-sec/blob/main/README.md)
+### </br> • [*Project 174 - Investigating Digital Forensics w/ Autopsy*](https://github.com/darylcbrooks/project-1/blob/project-174/README.md)
 
 
 ## <h2>Speaking Engagements</h2>
