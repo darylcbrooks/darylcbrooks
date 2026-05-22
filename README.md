@@ -30,11 +30,13 @@
 
 ### [*Found Here*](https://github.com/darylcbrooks/vuln-anal/blob/main/README.md)
 
+>**TOOLS USED:** Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker, WMAP, Linpeas, Burpsuite, Curl, Nikto, WPScan 
+
 ## <h2>Windows Security Projects</h2>
 
 ### [*Found Here*](https://github.com/darylcbrooks/win-sec/blob/main/README.md)
 
->**TOOLS USED:** Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker, WMAP, Linpeas, Burpsuite, Curl, Nikto, WPScan 
+
 
 ## <h2>SIEM Projects: Log Analysis</h2>
 
