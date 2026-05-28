@@ -12,41 +12,39 @@
 
 ### [*Found Here*](https://github.com/darylcbrooks/project-1/blob/Projects/README.md) 
 
->**TOOLS USED:** Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, Hydra, Hashcat, John The Ripper, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, AWS, Iftop, OpenSSL, Binwalk, Docker, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit, Linpeas, Certutil, Armitage, NetCat, Nikto, WPScan, ADFind, Wazuh 
+>**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, Hydra, Hashcat, John The Ripper, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, AWS, Iftop, OpenSSL, Binwalk, Docker, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit, Linpeas, Certutil, Armitage, NetCat, Nikto, WPScan, ADFind, Wazuh, PeStudio, Volatility, Autopsy, Foremost, VirusTotal, Hybrid Analysis, MISP, Active Directory/Group Policy Objects
 
 ## <h2>Blue Team Projects</h2>
 
 ### [*Found Here*](https://github.com/darylcbrooks/blue-team/blob/main/README.md)
 
->**TOOLS USED:** Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker, Linpeas, NetCat, Wazuh 
+>**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker, Linpeas, NetCat, Wazuh, PeStudio, Volatility, Autopsy, Foremost, VirusTotal, Hybrid Analysis, MISP, Active Directory/Group Policy Objects 
 
 ## <h2>Red Team Projects</h2>
 
 ### [*Found Here*](https://github.com/darylcbrooks/red-team/blob/main/README.md)
 
->**TOOLS USED:** Powershell, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Wireshark, T-Shark, Hydra, Hashcat, John The Ripper, ModSecurity, Python Pickle, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit, Armitage, NetCat, Gophish, Curl, Nikto, WPScan, ADFind 
+>**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Wireshark, T-Shark, Hydra, Hashcat, John The Ripper, ModSecurity, Python Pickle, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit, Armitage, NetCat, Gophish, Curl, Nikto, WPScan, ADFind 
 
 ## <h2>Vulnerability Scanning & Analysis Projects</h2>
 
 ### [*Found Here*](https://github.com/darylcbrooks/vuln-anal/blob/main/README.md)
 
->**TOOLS USED:** Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker, WMAP, Linpeas, Burpsuite, Curl, Nikto, WPScan 
+>**TOOLS USED:** Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker, WMAP, Linpeas, Burpsuite, Curl, Nikto, WPScan, VirusTotal, Hybrid Analysis, MISP, ADFind
 
 ## <h2>Windows Security Projects</h2>
 
 ### [*Found Here*](https://github.com/darylcbrooks/win-sec/blob/main/README.md)
 
-
+>**TOOLS USED:** Powershell, Windows CLI, Active Directory/Group Policy Objects, ADFind
 
 ## <h2>SIEM Projects: Log Analysis</h2>
 
 ### • [*Project 27 - Conducting Log Analysis with Splunk*](https://github.com/darylcbrooks/project-1/blob/project-27/README.md) </br> • [*Project 47 - Investigating Rogue Processes w/ Splunk*](https://github.com/darylcbrooks/project-1/blob/project-47/README.md) </br> • [*Project 70 - Using Binwalk for file inspection*](https://github.com/darylcbrooks/project-1/blob/project-70/README.md)</br> • [*Project 171 - Incident Detection and Alerting with Wazuh*](https://github.com/darylcbrooks/project-1/blob/project-171/README.md)</br> • [*Project 172 - Conducting A Malware Investigation w/ Splunk and VirusTotal*](https://github.com/darylcbrooks/project-1/blob/project-172/README.md)</br> • [*Project 178 - Monitoring and Preventing Data Exfiltration Attempts*](https://github.com/darylcbrooks/project-1/blob/project-178/README.md)
 
-
 ## <h2>Burpsuite Projects</h2>
 
 ### • [*Project 23 - Executing Local File Inclusion and Remote Code Execution with Burp Suite!*](https://github.com/darylcbrooks/project-1/blob/project-23/README.md) </br> • [*Project 53 - Burpsuite Traffic Interception 101*](https://github.com/darylcbrooks/project-1/blob/project-53/README.md) </br> • [*Project 54 - Conducting a Man-in-the-Middle Attack w/ Burpsuite*](https://github.com/darylcbrooks/project-1/blob/project-54/README.md)</br> • [*Project 160 - Using Curl and Burpsuite To Enumerate Allowed HTTP Methods*](https://github.com/darylcbrooks/project-1/blob/project-160/README.md)</br> • [*Project 161 - Exploring Site Mapping Techniques: Passive Crawling vs Active Spidering 🕷️*](https://github.com/darylcbrooks/project-1/blob/project-161/README.md)</br> • [*Project 168 - Capture The Flag Edition: Finding and Exploiting A Vulnerable WordPress Plug-in*](https://github.com/darylcbrooks/project-1/blob/project-168/README.md)
-
 
 
 ## <h2>Cloud Security Projects</h2>
