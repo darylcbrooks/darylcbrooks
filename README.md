@@ -42,6 +42,7 @@
 
 ### [*Found Here*](https://github.com/darylcbrooks/siem/blob/main/README.md)
 
+>**TOOLS USED:** Splunk, Wazuh
 
 ## <h2>Burpsuite Projects</h2>
 
