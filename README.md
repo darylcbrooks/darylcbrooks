@@ -60,7 +60,7 @@
 
 ## <h2>Digital Forensics Projects</h2>
 
-### </br> • [*Project 174 - Investigating Digital Forensics w/ Autopsy*](https://github.com/darylcbrooks/project-1/blob/project-174/README.md)</br> • [*Project 175 - Memory Forensics w/ Volatility*](https://github.com/darylcbrooks/project-1/blob/project-175/README.md)</br> • [*Project 176 - File and Artifact Carving w/ Foremost*](https://github.com/darylcbrooks/project-1/blob/project-176/README.md)
+### </br> • [*Project 66 - Digital Forensic Techniques 101*](https://github.com/darylcbrooks/project-1/blob/project-66/README.md) </br> • [*Project 174 - Investigating Digital Forensics w/ Autopsy*](https://github.com/darylcbrooks/project-1/blob/project-174/README.md)</br> • [*Project 175 - Memory Forensics w/ Volatility*](https://github.com/darylcbrooks/project-1/blob/project-175/README.md)</br> • [*Project 176 - File and Artifact Carving w/ Foremost*](https://github.com/darylcbrooks/project-1/blob/project-176/README.md)
 
 ## <h2>Speaking Engagements</h2>
 
