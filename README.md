@@ -12,13 +12,13 @@
 
 ### [*Found Here*](https://github.com/darylcbrooks/project-1/blob/Projects/README.md) 
 
->**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, Hydra, Hashcat, John The Ripper, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, AWS, Iftop, OpenSSL, Binwalk, Docker, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit, Linpeas, Certutil, Armitage, NetCat, Nikto, WPScan, ADFind, Wazuh, PeStudio, Volatility, Autopsy, Foremost, VirusTotal, Hybrid Analysis, MISP, Active Directory/Group Policy Objects
+>**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, Hydra, Hashcat, John The Ripper, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, AWS, Iftop, OpenSSL, Binwalk, Docker, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit, Linpeas, Certutil, Armitage, NetCat, Nikto, WPScan, ADFind, Wazuh, PeStudio, Volatility, Autopsy, Foremost, VirusTotal, Hybrid Analysis, MISP, Active Directory/Group Policy Objects, HybridAnalysis.com
 
 ## <h2>Blue Team Projects</h2>
 
 ### [*Found Here*](https://github.com/darylcbrooks/blue-team/blob/main/README.md)
 
->**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker, Linpeas, NetCat, Wazuh, PeStudio, Volatility, Autopsy, Foremost, VirusTotal, Hybrid Analysis, MISP, Active Directory/Group Policy Objects 
+>**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker, Linpeas, NetCat, Wazuh, PeStudio, Volatility, Autopsy, Foremost, VirusTotal, Hybrid Analysis, MISP, Active Directory/Group Policy Objects, HybridAnalysis.com 
 
 ## <h2>Red Team Projects</h2>
 
@@ -60,7 +60,7 @@
 
 ## <h2>Digital Forensics Projects</h2>
 
-### </br> • [*Project 66 - Digital Forensic Techniques 101*](https://github.com/darylcbrooks/project-1/blob/project-66/README.md) </br> • [*Project 174 - Investigating Digital Forensics w/ Autopsy*](https://github.com/darylcbrooks/project-1/blob/project-174/README.md)</br> • [*Project 175 - Memory Forensics w/ Volatility*](https://github.com/darylcbrooks/project-1/blob/project-175/README.md)</br> • [*Project 176 - File and Artifact Carving w/ Foremost*](https://github.com/darylcbrooks/project-1/blob/project-176/README.md)</br> • [*Project 185 - Analyzing LockerGoga Ransomware Sample*](https://github.com/darylcbrooks/project-1/blob/project-185/README.md)
+### </br> • [*Project 66 - Digital Forensic Techniques 101*](https://github.com/darylcbrooks/project-1/blob/project-66/README.md) </br> • [*Project 174 - Investigating Digital Forensics w/ Autopsy*](https://github.com/darylcbrooks/project-1/blob/project-174/README.md)</br> • [*Project 175 - Memory Forensics w/ Volatility*](https://github.com/darylcbrooks/project-1/blob/project-175/README.md)</br> • [*Project 176 - File and Artifact Carving w/ Foremost*](https://github.com/darylcbrooks/project-1/blob/project-176/README.md)</br> • [*Project 185 - Analyzing LockerGoga Ransomware Sample*](https://github.com/darylcbrooks/project-1/blob/project-185/README.md)</br> • [*Project 186 - Automated Malware Analysis w/ Hybrid Analysis*](https://github.com/darylcbrooks/project-1/blob/project-186/README.md)
 
 ## <h2>Speaking Engagements</h2>
 
