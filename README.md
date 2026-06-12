@@ -12,13 +12,13 @@
 
 ### [*Found Here*](https://github.com/darylcbrooks/project-1/blob/Projects/README.md) 
 
->**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, Hydra, Hashcat, John The Ripper, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, AWS, Iftop, OpenSSL, Binwalk, Docker, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit, Linpeas, Certutil, Armitage, NetCat, Nikto, WPScan, ADFind, Wazuh, PeStudio, Volatility, Autopsy, Foremost, VirusTotal, Hybrid Analysis, MISP, Active Directory/Group Policy Objects, HybridAnalysis.com
+>**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, Hydra, Hashcat, John The Ripper, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, AWS, Iftop, OpenSSL, Binwalk, Docker, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit, Linpeas, Certutil, Armitage, NetCat, Nikto, WPScan, ADFind, Wazuh, PeStudio, Volatility, Autopsy, Foremost, VirusTotal, Hybrid Analysis, MISP, Active Directory/Group Policy Objects, HybridAnalysis.com, Fail2ban
 
 ## <h2>Blue Team Projects</h2>
 
 ### [*Found Here*](https://github.com/darylcbrooks/blue-team/blob/main/README.md)
 
->**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker, Linpeas, NetCat, Wazuh, PeStudio, Volatility, Autopsy, Foremost, VirusTotal, Hybrid Analysis, MISP, Active Directory/Group Policy Objects, HybridAnalysis.com 
+>**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker, Linpeas, NetCat, Wazuh, PeStudio, Volatility, Autopsy, Foremost, VirusTotal, Hybrid Analysis, MISP, Active Directory/Group Policy Objects, HybridAnalysis.com, Fail2ban 
 
 ## <h2>Red Team Projects</h2>
 
