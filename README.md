@@ -44,6 +44,13 @@
 
 >**TOOLS USED:** Splunk, Wazuh
 
+## <h2>Packet Analysis Projects</h2>
+
+### [*Found Here*](https://github.com/darylcbrooks/packet-anal/blob/main/README.md)
+
+>**TOOLS USED:** Wireshark, TShark, Zeek, Ntopng
+
+
 ## <h2>Burpsuite Projects</h2>
 
 ### • [*Project 23 - Executing Local File Inclusion and Remote Code Execution with Burp Suite!*](https://github.com/darylcbrooks/project-1/blob/project-23/README.md) </br> • [*Project 53 - Burpsuite Traffic Interception 101*](https://github.com/darylcbrooks/project-1/blob/project-53/README.md) </br> • [*Project 54 - Conducting a Man-in-the-Middle Attack w/ Burpsuite*](https://github.com/darylcbrooks/project-1/blob/project-54/README.md)</br> • [*Project 160 - Using Curl and Burpsuite To Enumerate Allowed HTTP Methods*](https://github.com/darylcbrooks/project-1/blob/project-160/README.md)</br> • [*Project 161 - Exploring Site Mapping Techniques: Passive Crawling vs Active Spidering 🕷️*](https://github.com/darylcbrooks/project-1/blob/project-161/README.md)</br> • [*Project 168 - Capture The Flag Edition: Finding and Exploiting A Vulnerable WordPress Plug-in*](https://github.com/darylcbrooks/project-1/blob/project-168/README.md)
@@ -52,11 +59,6 @@
 ## <h2>Cloud Security Projects</h2>
 
 ### • [*Project 60 - Creating AWS EC2 Key Pairs and Managing Secrets with AWS Secrets Manager*](https://github.com/darylcbrooks/project-1/blob/project-60/README.md) </br> • [*Project 61 - Creating Security Groups for AWS EC2 Instances*](https://github.com/darylcbrooks/project-1/blob/project-61/README.md) </br> • [*Project 62 - AWS IAM and S3 Security Compliance Automation*](https://github.com/darylcbrooks/project-1/blob/project-62/README.md) </br> • [*Project 63 - AWS CloudFormation Templates: Applying Changesets and Detecting Configuration Drift*](https://github.com/darylcbrooks/project-1/blob/project-63/README.md)</br> • [*Project 162 - Restricting Port Access on an AWS EC2 for Enhanced Security*](https://github.com/darylcbrooks/project-1/blob/project-162/README.md)</br> • [*Project 163 - Building A Virtual Machine & Restricting Port Access In Microsoft Azure*](https://github.com/darylcbrooks/project-1/blob/project-163/README.md)</br> • [*Project 164 - Building A Virtual Machine & Restricting Port Access In Google Cloud Platform*](https://github.com/darylcbrooks/project-1/blob/project-164/README.md) 
-
-
-## <h2>Packet Analysis Projects</h2>
-
-### [*Found Here*](https://github.com/darylcbrooks/packet-anal/blob/main/README.md)
 
 
 ## <h2>Digital Forensics Projects</h2>
