@@ -50,6 +50,11 @@
 
 >**TOOLS USED:** Wireshark, TShark, Zeek, Ntopng
 
+## <h2>Digital Forensics Projects</h2>
+
+### [*Found Here*](https://github.com/darylcbrooks/digi-for/blob/main/README.md)
+
+>**TOOLS USED:** Wireshark, Autopsy, Volatility, Foremost, Hybrid Analysis.com, VirusTotal.com, PEStudio, Cyberchef, YARA Rules
 
 ## <h2>Burpsuite Projects</h2>
 
@@ -59,11 +64,6 @@
 ## <h2>Cloud Security Projects</h2>
 
 ### • [*Project 60 - Creating AWS EC2 Key Pairs and Managing Secrets with AWS Secrets Manager*](https://github.com/darylcbrooks/project-1/blob/project-60/README.md) </br> • [*Project 61 - Creating Security Groups for AWS EC2 Instances*](https://github.com/darylcbrooks/project-1/blob/project-61/README.md) </br> • [*Project 62 - AWS IAM and S3 Security Compliance Automation*](https://github.com/darylcbrooks/project-1/blob/project-62/README.md) </br> • [*Project 63 - AWS CloudFormation Templates: Applying Changesets and Detecting Configuration Drift*](https://github.com/darylcbrooks/project-1/blob/project-63/README.md)</br> • [*Project 162 - Restricting Port Access on an AWS EC2 for Enhanced Security*](https://github.com/darylcbrooks/project-1/blob/project-162/README.md)</br> • [*Project 163 - Building A Virtual Machine & Restricting Port Access In Microsoft Azure*](https://github.com/darylcbrooks/project-1/blob/project-163/README.md)</br> • [*Project 164 - Building A Virtual Machine & Restricting Port Access In Google Cloud Platform*](https://github.com/darylcbrooks/project-1/blob/project-164/README.md) 
-
-
-## <h2>Digital Forensics Projects</h2>
-
-### </br> • [*Project 66 - Digital Forensic Techniques 101*](https://github.com/darylcbrooks/project-1/blob/project-66/README.md) </br> • [*Project 174 - Investigating Digital Forensics w/ Autopsy*](https://github.com/darylcbrooks/project-1/blob/project-174/README.md)</br> • [*Project 175 - Memory Forensics w/ Volatility*](https://github.com/darylcbrooks/project-1/blob/project-175/README.md)</br> • [*Project 176 - File and Artifact Carving w/ Foremost*](https://github.com/darylcbrooks/project-1/blob/project-176/README.md)</br> • [*Project 185 - Analyzing LockerGoga Ransomware Sample*](https://github.com/darylcbrooks/project-1/blob/project-185/README.md)</br> • [*Project 186 - Automated Malware Analysis w/ Hybrid Analysis*](https://github.com/darylcbrooks/project-1/blob/project-186/README.md)</br> • [*Project 187 - Memory Forensics and Malicious Application Analysis w/Volatility*](https://github.com/darylcbrooks/project-1/blob/project-187/README.md)</br> • [*Project 188 - Static Malware Analysis with PE Studio*](https://github.com/darylcbrooks/project-1/blob/project-188/README.md)
 
 ## <h2>Speaking Engagements</h2>
 
