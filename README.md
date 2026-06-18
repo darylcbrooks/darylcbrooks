@@ -8,17 +8,17 @@
 
 >**Career Plans:** My goal is to pivot into the vulnerability management and analysis cybersecurity domain. I want to take raw prevelance & scanning data and transform it into meaningful insight in order to help organizations better understand their overall security posture.
 
-<h2>Projects Master List (150+)</h2>
+<h2>Projects Master List (200+)</h2>
 
 ### [*Found Here*](https://github.com/darylcbrooks/project-1/blob/Projects/README.md) 
 
->**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, Hydra, Hashcat, John The Ripper, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, AWS, Iftop, OpenSSL, Binwalk, Docker, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit, Linpeas, Certutil, Armitage, NetCat, Nikto, WPScan, ADFind, Wazuh, PeStudio, Volatility, Autopsy, Foremost, VirusTotal, Hybrid Analysis, MISP, Active Directory/Group Policy Objects, HybridAnalysis.com, Fail2ban
+>**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Metasploit Framework, msfvenom, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, Hydra, Hashcat, John The Ripper, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, BruteDum, OWASP ZAP Scanner, Burpsuite, Wordpress, GoBuster, AWS, Iftop, OpenSSL, Binwalk, Docker, dnsspoof, arpspoof, DAVTest, WMAP, PSexec, FreeRDP, CrackMapExec, Kiwi, Mimikatz, Searchsploit, Linpeas, Certutil, Armitage, NetCat, Nikto, WPScan, ADFind, Wazuh, PeStudio, Volatility, Autopsy, Foremost, VirusTotal, Hybrid Analysis, MISP, Active Directory/Group Policy Objects, HybridAnalysis.com, Fail2ban, RKill, Malwarebytes, ID-Ransomware, Visual Studio Code
 
 ## <h2>Blue Team Projects</h2>
 
 ### [*Found Here*](https://github.com/darylcbrooks/blue-team/blob/main/README.md)
 
->**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker, Linpeas, NetCat, Wazuh, PeStudio, Volatility, Autopsy, Foremost, VirusTotal, Hybrid Analysis, MISP, Active Directory/Group Policy Objects, HybridAnalysis.com, Fail2ban 
+>**TOOLS USED:** Powershell, Windows CLI, Windows Server 2008/2012, Kali Linux (Ubuntu), Nmap, Python, Bash, Splunk Enterprise, Snort, Lynis, Wireshark, T-Shark, Steghide, HPing, OpenVas, Nessus, sguil, Zeek, IP Tables, ModSecurity, Python Pickle, Suricata, Pentbox Honeypot, Cyber Chef, Yara Rules, OWASP ZAP Scanner, AWS, Iftop, OpenSSL, Binwalk, Docker, Linpeas, NetCat, Wazuh, PeStudio, Volatility, Autopsy, Foremost, VirusTotal, Hybrid Analysis, MISP, Active Directory/Group Policy Objects, HybridAnalysis.com, Fail2ban, RKill, Malwarebytes, ID-Ransomware, Visual Studio Code 
 
 ## <h2>Red Team Projects</h2>
 
@@ -54,7 +54,7 @@
 
 ### [*Found Here*](https://github.com/darylcbrooks/digi-for/blob/main/README.md)
 
->**TOOLS USED:** Wireshark, Autopsy, Volatility, Foremost, Hybrid Analysis.com, VirusTotal.com, PEStudio, Cyberchef, YARA Rules
+>**TOOLS USED:** Wireshark, Autopsy, Volatility, Foremost, Hybrid Analysis.com, VirusTotal.com, PEStudio, Cyberchef, YARA Rules, Visual Studio Code
 
 ## <h2>Burpsuite Projects</h2>
 
