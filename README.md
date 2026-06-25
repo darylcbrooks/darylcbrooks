@@ -8,7 +8,7 @@
 
 >**Career Plans:** My goal is to pivot into the vulnerability management and analysis cybersecurity domain. I want to take raw prevelance & scanning data and transform it into meaningful insight in order to help organizations better understand their overall security posture.
 
-<h2>Projects Master List (200+)</h2>
+## <h2>Projects Master List (200+)</h2>
 
 ### [*Found Here*](https://github.com/darylcbrooks/project-1/blob/Projects/README.md) 
 
@@ -31,6 +31,14 @@
 ### [*Found Here*](https://github.com/darylcbrooks/vuln-anal/blob/main/README.md)
 
 >**TOOLS USED:** Nmap, Python, Bash, Snort, Lynis, Wireshark, T-Shark, OpenVas, Nessus, sguil, Zeek, OWASP ZAP Scanner, Iftop, Binwalk, Docker, WMAP, Linpeas, Burpsuite, Curl, Nikto, WPScan, VirusTotal, Hybrid Analysis, MISP, ADFind
+
+
+## <h2>AI Security Projects</h2>
+
+### [*Found Here*](https://github.com/darylcbrooks/ai-sec/blob/main/README.md)
+
+>**TOOLS USED:** OLLAMA, curl, netstat, Kali Linux, elastic, ChromaDB
+
 
 ## <h2>Windows Security Projects</h2>
 
