@@ -121,7 +121,7 @@
 
 ## <h2>Federal Acquisition Institute/Defense Acquisition University Certifications</h2>
 
-</br>• *Contracting Officer's Representative (FAC-COR)*</br>• *DHS Test & Evaluation (TE) - Level 1 Certification*
+• *Contracting Officer's Representative (FAC-COR)*</br>• *DHS Test & Evaluation (TE) - Level 1 Certification*
 
 
 ## <code>TECHNICAL SKILLS</code>
