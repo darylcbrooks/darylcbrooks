@@ -101,7 +101,7 @@
 
 ## <h2>Cybersecurity Certifications</h2>
 
- • [*Certified Information Systems Security Professional (CISSP)*](https://www.credly.com/badges/6e7309f0-10f5-48b3-98bf-ae7fc730b5d4/)</br> • [*eJPT - Junior Penetration Tester*](https://certs.ine.com/2c8f2d8e-1a34-4a3e-bd98-731cfe5dfa37#acc.RAWZFV6s/)</br> • [*CompTIA CySA+*](https://www.credly.com/badges/494cd55e-e74f-421b-96ee-795df4a73b83/)</br>• [*CompTIA Security+*](https://www.credly.com/badges/873b5d14-4552-4a36-bbe0-23141fe88571/)</br>• [*Social Media Security Professional (SMSP) Powered by CompTIA*](https://www.ultimateknowledge.com/CertApplication/2013/13383026403.pdf)</br>• [*Microsoft Certified: Security, Compliance, and Identity Fundamentals*](https://learn.microsoft.com/en-us/users/brooksdaryl-4420/credentials/86a8c691bbc9bb92)</br>• [*AKYLADE Certified Cyber Resilience Fundamentals (A/CCRF)*](https://www.credential.net/c3e7fbc0-879c-408d-a5d2-6ced4168572f#acc.8miT5Bph)</br>• [*AKYLADE Cyber Risk Management Foundation (A/CRMF)*](https://www.credential.net/95a71c88-4f61-4afb-be3d-518bcf96fe5c#acc.zpfioMLa)</br>• [*ISO/IEC 27001:2022 Lead Auditor*](https://www.credly.com/badges/5303c5f2-f54b-4ee2-a00a-bbbaeae059d8/)</br>• [*Security Analyst (SAL1) Certificate*](https://assets.tryhackme.com/certification-certificate/67fd1f02ea09a525c3d08f91.pdf)</br>• [*Fortinet Certified Associate Cybersecurity*](https://www.credly.com/badges/c6ee0900-4e7a-4ea4-a3cb-1f0a6d65333c/)</br>
+ • [*Certified Information Systems Security Professional (CISSP)*](https://www.credly.com/badges/6e7309f0-10f5-48b3-98bf-ae7fc730b5d4/)</br> • [*eJPT - Junior Penetration Tester*](https://certs.ine.com/2c8f2d8e-1a34-4a3e-bd98-731cfe5dfa37#acc.RAWZFV6s/)</br> • [*CompTIA CySA+*](https://www.credly.com/badges/494cd55e-e74f-421b-96ee-795df4a73b83/)</br>• [*CompTIA Security+*](https://www.credly.com/badges/873b5d14-4552-4a36-bbe0-23141fe88571/)</br>• [*Social Media Security Professional (SMSP) Powered by CompTIA*](https://www.ultimateknowledge.com/CertApplication/2013/13383026403.pdf)</br>• [*Microsoft Certified: Security, Compliance, and Identity Fundamentals*](https://learn.microsoft.com/en-us/users/brooksdaryl-4420/credentials/86a8c691bbc9bb92)</br>• [*AKYLADE Certified Cyber Resilience Fundamentals (A/CCRF)*](https://www.credential.net/c3e7fbc0-879c-408d-a5d2-6ced4168572f#acc.8miT5Bph)</br>• [*AKYLADE Cyber Risk Management Foundation (A/CRMF)*](https://www.credential.net/95a71c88-4f61-4afb-be3d-518bcf96fe5c#acc.zpfioMLa)</br>• [*ISO/IEC 27001:2022 Lead Auditor*](https://www.credly.com/badges/5303c5f2-f54b-4ee2-a00a-bbbaeae059d8/)</br>• [*Security Analyst (SAL1) Certificate*](https://assets.tryhackme.com/certification-certificate/67fd1f02ea09a525c3d08f91.pdf)</br>• [*Fortinet Certified Associate Cybersecurity*](https://www.credly.com/badges/c6ee0900-4e7a-4ea4-a3cb-1f0a6d65333c/)</br>• [*ISO/IEC 27701:2025 Lead Auditor*](https://www.credly.com/badges/6ede98b2-72b1-4830-8062-424c327c026c/)</br>• [*EC-Council Certified Incident Handler*](https://aspen.eccouncil.org/Verify)
 
 ## <h2>IT Certifications</h2>
 
@@ -109,7 +109,7 @@
 
 ## <h2>Cloud Certifications</h2>
 
- • [*AWS Certified Cloud Practitioner*](https://www.credly.com/badges/7014ffd5-bc25-452d-92a1-2a7fbc0c5393/)</br>• [*Microsoft Certified: Azure Fundamentals*](https://learn.microsoft.com/en-us/users/brooksdaryl-4420/credentials/dbc211d2c7e2e64)</br>• [*Microsoft Certified: Azure Data Fundamentals*](https://learn.microsoft.com/en-us/users/brooksdaryl-4420/credentials/5e3bb4fd1374a2e8)</br>• [*CompTIA Cloud Essentials+*](https://www.credly.com/badges/08e2c878-a453-44f4-8212-27d559dfd767/)</br>
+ • [*AWS Certified Cloud Practitioner*](https://www.credly.com/badges/7014ffd5-bc25-452d-92a1-2a7fbc0c5393/)</br>• [*Microsoft Certified: Azure Fundamentals*](https://learn.microsoft.com/en-us/users/brooksdaryl-4420/credentials/dbc211d2c7e2e64)</br>• [*Microsoft Certified: Azure Data Fundamentals*](https://learn.microsoft.com/en-us/users/brooksdaryl-4420/credentials/5e3bb4fd1374a2e8)</br>• [*CompTIA Cloud Essentials+*](https://www.credly.com/badges/08e2c878-a453-44f4-8212-27d559dfd767/)</br>• [*ICCA - INE Certified Cloud Associate*](https://certs.ine.com/f7845be7-46ea-4c09-9ca7-d1ec2c976481#acc.WMH1fBGN) 
 
 ## <h2>AI Certifications</h2>
 
@@ -118,6 +118,10 @@
 ## <h2>Project Management Certifications</h2>
 
  • [*Project Management Professional (PMP)*](https://www.credly.com/badges/d79ce8a2-8314-4e4e-9312-067d5510bcb0/)</br>• [*Lean Six Sigma Green Belt*](https://learn.educate360.com/c/vTWFUrAWSOaN6Xh_--5Z6A)</br>• [*Certified SAFe® 6 Release Train Engineer*](https://www.credly.com/badges/574e0245-98ff-4db6-9daf-2ab9d3b9f95d/)</br>• [*Certified Scrum Master (CSM)*](https://bcert.me/bc/html/show-badge.html?b=ucmiqzjc)</br>• [*Professional Scrum Master™ I (PSM I)*](https://www.credly.com/badges/d2a31be3-6337-4b2d-841c-db5ec639dad3/)</br>• [*CompTIA Project+*](https://www.credly.com/badges/4c752808-509c-4023-9f7d-c583b04711a6/)</br>• *Agile Scrum Foundation*</br>
+
+## <h2>Federal Acquisition Institue/Defense Acquisition University Certifications</h2>
+
+</br>• *Contracting Officer's Representative (FAC-COR)*</br>• *DHS Test & Evaluation (TE) - Level 1 Certification*
 
 
 ## <code>TECHNICAL SKILLS</code>
