@@ -119,7 +119,7 @@
 
  • [*Project Management Professional (PMP)*](https://www.credly.com/badges/d79ce8a2-8314-4e4e-9312-067d5510bcb0/)</br>• [*Lean Six Sigma Green Belt*](https://learn.educate360.com/c/vTWFUrAWSOaN6Xh_--5Z6A)</br>• [*Certified SAFe® 6 Release Train Engineer*](https://www.credly.com/badges/574e0245-98ff-4db6-9daf-2ab9d3b9f95d/)</br>• [*Certified Scrum Master (CSM)*](https://bcert.me/bc/html/show-badge.html?b=ucmiqzjc)</br>• [*Professional Scrum Master™ I (PSM I)*](https://www.credly.com/badges/d2a31be3-6337-4b2d-841c-db5ec639dad3/)</br>• [*CompTIA Project+*](https://www.credly.com/badges/4c752808-509c-4023-9f7d-c583b04711a6/)</br>• *Agile Scrum Foundation*</br>
 
-## <h2>Federal Acquisition Institue/Defense Acquisition University Certifications</h2>
+## <h2>Federal Acquisition Institute/Defense Acquisition University Certifications</h2>
 
 </br>• *Contracting Officer's Representative (FAC-COR)*</br>• *DHS Test & Evaluation (TE) - Level 1 Certification*
 
