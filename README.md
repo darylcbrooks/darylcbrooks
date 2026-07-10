@@ -121,7 +121,7 @@
 
 ## <h2>Federal Acquisition Institute/Defense Acquisition University Certifications</h2>
 
-• [*Contracting Officer's Representative (FAC-COR)*](https://github.com/darylcbrooks/project-1/blob/Projects/FAC%20COR%201.png)</br>• [*DHS Test & Evaluation (TE) - Level 1 Certification*](https://github.com/darylcbrooks/project-1/blob/Projects/DHS%20TE%201.png)
+• [*Contracting Officer's Representative (FAC-COR)*](https://github.com/darylcbrooks/project-1/blob/Projects/FAC%20COR%201.png)</br>• [*DHS Test & Evaluation (TE) - Level 1 Certification*](https://github.com/darylcbrooks/project-1/blob/Projects/DHS%20TE%201.png)</br>• [*FAC-P/PM Entry Level*](https://github.com/darylcbrooks/project-1/blob/Projects/FAC-PPM%20Entry%20Level.png)</br>• [*DHS P/PM Level 1 (Entry) Specialization*](https://github.com/darylcbrooks/project-1/blob/Projects/FAC-PPM%20Entry%20Level.png)
 
 
 ## <code>TECHNICAL SKILLS</code>
