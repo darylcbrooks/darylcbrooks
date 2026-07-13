@@ -97,6 +97,8 @@
 - [*Google Project Management Professional Certificate*](https://www.credly.com/badges/65dc2522-8916-4427-a073-96b1a539062f)
 - [*IBM Cybersecurity Analyst Professional Certificate*](https://www.credly.com/badges/ee40835c-b3a4-47e8-a800-6c523a86e945)
 - [*IBM IT Support Professional Certificate*](https://www.credly.com/badges/03b44017-2669-49fc-90c5-310325cf1577)
+- [*IBM Project Management Professional Certificate*](https://coursera.org/verify/professional-cert/Z3WT6GD0KEJE)
+- [*IBM IT Project Management Professional Certificate*](https://coursera.org/verify/professional-cert/WJLCQW4GARY2)
 
 
 ## <h2>Cybersecurity Certifications</h2>
