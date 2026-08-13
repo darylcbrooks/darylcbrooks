@@ -123,7 +123,7 @@
 
 ## <h2>Federal Acquisition Institute/Defense Acquisition University Certifications</h2>
 
-• [*Contracting Officer's Representative (FAC-COR)*](https://github.com/darylcbrooks/project-1/blob/Projects/FAC%20COR%201.png)</br>• [*DHS Test & Evaluation (TE) - Level 1 Certification*](https://github.com/darylcbrooks/project-1/blob/Projects/DHS%20TE%201.png)</br>• [*FAC-P/PM Entry Level*](https://github.com/darylcbrooks/project-1/blob/Projects/FAC-PPM%20Entry%20Level.png)</br>• [*DHS P/PM Level 1 (Entry) Specialization*](https://github.com/darylcbrooks/project-1/blob/Projects/DHS%20P-PM%20Level%201%20Entry%20Specialization.png)
+• [*Contracting Officer's Representative (FAC-COR)*](https://github.com/darylcbrooks/project-1/blob/Projects/FAC%20COR%201.png)</br>• [*DHS Test & Evaluation (TE) - Level 1 Certification*](https://github.com/darylcbrooks/project-1/blob/Projects/DHS%20TE%201.png)</br>• [*FAC-P/PM Entry Level*](https://github.com/darylcbrooks/project-1/blob/Projects/FAC-PPM%20Entry%20Level.png)</br>• [*DHS P/PM Level 1 (Entry) Specialization*](https://github.com/darylcbrooks/project-1/blob/Projects/DHS%20P-PM%20Level%201%20Entry%20Specialization.png)</br>• [*DHS Technical Management (TM) - Level 1 Certification*](https://github.com/darylcbrooks/project-1/blob/Projects/DHS%20TM%201.png)
 
 
 ## <code>TECHNICAL SKILLS</code>
